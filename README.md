@@ -17,4 +17,4 @@
 - Desarrollo de habilidades de pensamiento crítico e interpretación de fuentes académicas.
 - Evaluación y citado académico de fuentes bibliográficas (en formato APA).
 ## Contacto
-www.linkedin.com/alex-cernocky-sio
+www.linkedin.com/in/alex-cernocky-sio
