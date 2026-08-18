@@ -1,5 +1,5 @@
 # La experiencia de El Salvador con la adopción del Bitcoin 
-- Trabajo de investigación independiente sobre el proceso de adopción del Bitcoin (BTC) en El Salvador como moneda de curso legal e implicancias del mismo en Argentina.
+- Trabajo de investigación independiente que busca responder a la pregunta de: ¿Cómo fue el proceso de adopción del Bitcoin en El Salvador y cómo podría darse el fenómeno en la Argentina?
 ## Objetivos
 - Analizar cómo El Salvador adoptó el Bitcoin como moneda de curso legal y analizar cuáles fueron sus efectos socioeconómicos en la economía del país centroamericano.
 - Inferir cuál podría ser la aplicación del activo en la Argentina teniendo como referencia el caso puntual salvadoreño.
