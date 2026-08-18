@@ -13,7 +13,7 @@
 ## Habilidades desarrolladas
 - Análisis económico.
 - Aplicación de conceptos básicos de blockchain, criptomonedas y tecnología Web3. 
-- Confección de gráficos y tablas para ilustrar la información.
+- Confección de gráficos y tablas para ilustrar la información analizada.
 - Desarrollo de habilidades de pensamiento crítico e interpretación de fuentes académicas.
 - Evaluación y citado académico de fuentes bibliográficas (en formato APA).
 ## Contacto
