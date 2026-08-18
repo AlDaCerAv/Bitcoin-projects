@@ -6,10 +6,10 @@
 ## Contenido
 - Análisis Bitcoin en El Salvador.pdf (archivo con el trabajo final)
 ## Principales temas
-- Contexto previo a la adopción del Bitcoin en El Salvador
-- Economía de El Salvador
-- Implicancias y resultados del Bitcoin a nivel socioeconómico 
-- Conclusiones y aplicación a la Argentina
+- Contexto previo a la adopción del Bitcoin en El Salvador.
+- Economía de El Salvador.
+- Implicancias y resultados del Bitcoin a nivel socioeconómico.
+- Conclusiones y aplicación a la Argentina.
 ## Habilidades desarrolladas
 - Análisis económico.
 - Aplicación de conceptos básicos de blockchain, criptomonedas y tecnología Web3. 
